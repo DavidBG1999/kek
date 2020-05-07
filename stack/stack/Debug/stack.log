@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\Funny_Hero\source\repos\stack\stack\Menu.h(45,14): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Funny_Hero\source\repos\stack\stack\main.cpp(3,12): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  stack.vcxproj -> D:\Funny_Hero\source\repos\stack\Debug\stack.exe
