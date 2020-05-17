@@ -1,3 +1,4 @@
+//Bagdasaryn M-35
 #pragma once
 
 class Queue
