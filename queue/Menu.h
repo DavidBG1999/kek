@@ -1,4 +1,4 @@
-//Багдасарян М-35
+//magdasaryn M-35
 
 #pragma once
 #include "Queue.h"
