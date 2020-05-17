@@ -1,3 +1,4 @@
+//Bagdasaryn M-35
 #include "Queue.h"
 
 Queue::Queue() {
