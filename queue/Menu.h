@@ -1,4 +1,4 @@
-//magdasaryn M-35
+//Bagdasaryn M-35
 
 #pragma once
 #include "Queue.h"
